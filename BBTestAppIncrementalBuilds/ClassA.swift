@@ -10,6 +10,6 @@ import UIKit
 
 class ClassA: NSObject {
     func hello() -> String {
-        retur "hello from A"
+        return "hello from A"
     }
 }

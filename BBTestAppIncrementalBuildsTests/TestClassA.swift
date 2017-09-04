@@ -27,7 +27,7 @@ class TestClassA: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         
         let a = ClassA()
-        assert(a.hello() == "hello from B")
+        assert(a.hello() == "hello from A")
     }
     
     func testPerformanceExample() {

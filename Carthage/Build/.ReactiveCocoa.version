@@ -1,0 +1,27 @@
+{
+  "iOS" : [
+    {
+      "hash" : "40f661d540f10f99a0f885d8986848120b5bf8a880ba0700789979cc86f22bb8",
+      "name" : "ReactiveCocoa"
+    }
+  ],
+  "commitish" : "6.0.2",
+  "watchOS" : [
+    {
+      "hash" : "5ec8eeb715ace7bb174a9299bca5e74db0be9677cf9c34ea555f175bc6153a9e",
+      "name" : "ReactiveCocoa"
+    }
+  ],
+  "tvOS" : [
+    {
+      "hash" : "78e5096c440e8563711beab30d31ef57598a17067ed93ba1f081bb542b5c4b66",
+      "name" : "ReactiveCocoa"
+    }
+  ],
+  "Mac" : [
+    {
+      "hash" : "355f973b9808931326eddb2bb5c9fd2c0199074c441ea004af6d0c194c0b2c56",
+      "name" : "ReactiveCocoa"
+    }
+  ]
+}
